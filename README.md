@@ -61,3 +61,4 @@ architecture clarity rather than executable coverage.
 ## Author
 
 Bohdan Reshetilov
+QA Automation Engineer / SDET
