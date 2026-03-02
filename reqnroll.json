@@ -1,0 +1,23 @@
+{
+    "reqnroll": {
+        "bindingCulture": {
+            "name": "en-us"
+        },
+        "language": {
+            "feature": "en-us"
+        },
+        "unitTestProvider": {
+            "name": "NUnit"
+        },
+        "plugin": [
+            {
+                "name": "databinding.Reqnroll.NUnit.Retry",
+                "type": "Generator"
+            }
+        ]
+    },
+    "nunitRetry": {
+        "enabled": true,
+        "tryCount": 3
+    }
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+    <TestRunParameters>
+        <!-- example URL -->
+        <Parameter name="URL" value="https://url-#{pr}#.npe.net"/> 
+        <Parameter name="PageLoad" value="90"/>
+        <Parameter name="ImplicitWait" value="15"/>
+        <Parameter name="Wait" value="30"/>
+        <Parameter name="ShortWait" value="3"/>
+        <Parameter name="Headless" value="true"/>
+        <Parameter name="OutputFolder" value="Output"/>
+        <Parameter name="WaitDownload" value="30"/>
+    </TestRunParameters>
+</RunSettings>
